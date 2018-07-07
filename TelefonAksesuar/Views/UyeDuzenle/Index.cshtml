@@ -1,0 +1,102 @@
+﻿@model IEnumerable<TelefonAksesuar.Models.Uyeler>
+
+@{
+    ViewBag.Title = "Üyeler";
+}
+
+<h2></h2>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">
+                Üyeler Listesi
+                <small>Admin Paneli</small>
+            </h1>
+            <ol class="breadcrumb">
+                <li>
+                    @Html.ActionLink("Anasayfa", "Index", "Home")
+
+                </li>
+                <li class="active">Üyeleri Gör</li>
+            </ol>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+      
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><br /></h4>
+                        <a href="/UyeDuzenle/Ekle" class="btn btn-success btn-sm tooltips pull-right" title="Yeni Slide" style="margin-top:-33px;">+Yeni Üye</a>
+                    </div>
+                    <div class="panel-body">
+                        <table class="table table-bordered table-hover">
+                            <thead>
+                                <tr>
+                                    <th class="col-md-1">Ad</th>
+                                    <th class="col-md-1">Soyad</th>
+                                    <th class="col-md-2">E-mail</th>
+                                    <th class="col-md-2">Kullanıcı Adı</th>
+                                    <th class="col-md-1">Şifre</th>
+                                    <th class="col-md-1">Yaş</th>
+                                    <th class="col-md-1">Şehir</th>
+                                    <th class="col-md-4">Adres</th>
+                                    <th class="col-md-1">Yetki</th>
+
+                                    <th></th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Ad)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Soyad)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.EMail)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.KullaniciAdi)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Sifre)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Yas)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Sehir)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Adres)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Yetki)
+                                        </td>
+                                        <td>
+                                            @Html.ActionLink("Düzenle", "Duzenle", new { id = item.UyeID })
+                                        </td>
+                                        <td>
+                                            @Html.ActionLink("Sil", "Sil", new { id = item.UyeID })
+                                        </td>
+                                        @*<td><a href="/Admin/SlideSil?SlideID=@item.ID" class='btn btn-xs btn-danger tooltips' title='Sil'>Sil</a></td>*@
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            
+
+        </div>
+    </div>
+</div>

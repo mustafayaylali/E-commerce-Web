@@ -1,0 +1,13 @@
+myaylali
+199567ts				
+
+ssh://git@bitbucket.org/myaylali/telefon-aksesuar-projesi.git
+
+TelefonAksesuar klasörü Bitbucketda gözüken 
+
+
+Telefon Aksesuar1 sitesini yap ve sonra TelefonAksesuar a at
+
+
+
+sourceTreee þifre=199567ts

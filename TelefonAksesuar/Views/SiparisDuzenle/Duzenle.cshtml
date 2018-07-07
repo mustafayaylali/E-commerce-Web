@@ -1,0 +1,100 @@
+﻿@model TelefonAksesuar.Models.Siparisler
+
+@{
+    ViewBag.Title = "Düzenle";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">
+                Siparişleri Düzenle
+                <small></small>
+            </h1>
+            <ol class="breadcrumb">
+                <li>
+                    @Html.ActionLink("Anasayfa", "Index", "Home")
+
+                </li>
+                <li class="active">Siparişleri Düzenle</li>
+            </ol>
+        </div>
+    </div>
+    
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4></h4>
+            <hr />
+            @Html.ValidationSummary(true)
+            @Html.HiddenFor(model => model.SiparisID)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.SiparisOzet, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.SiparisOzet, new { @class = "form-control", style = "width:300px" })
+                    @Html.ValidationMessageFor(model => model.SiparisOzet)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.UyeID, "Üye Adı", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownList("UyeID", String.Empty)
+                    @Html.ValidationMessageFor(model => model.UyeID)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Tarih, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Tarih, new { @class = "form-control", style = "width:300px" })
+                    @Html.ValidationMessageFor(model => model.Tarih)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Adres, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Adres, new { @class = "form-control", style = "width:300px" })
+                    @Html.ValidationMessageFor(model => model.Adres)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Durum, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownListFor(model => model.Durum, new List<SelectListItem>
+                      {
+                        new SelectListItem() {Text = "Siparişiniz alındı"},
+                        new SelectListItem() {Text = "Ürünler paketleniyor"},
+                        new SelectListItem() {Text = "Siparişiniz yola çıktı"},
+                        new SelectListItem() {Text = "Siparişiniz teslim edildi"}
+                     }, new { @class = "form-control" ,style="width:300px"})
+                    
+                    @Html.ValidationMessageFor(model => model.Durum)
+                </div>
+            </div>
+           
+            <div class="form-group">
+                @Html.LabelFor(model => model.Fiyat, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Fiyat, new { @class = "form-control", style = "width:300px" })
+                    @Html.ValidationMessageFor(model => model.Fiyat)
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Kaydet" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+
+    <div>
+        @Html.ActionLink("Siparişlere Dön", "Index")
+    </div>
+</div>

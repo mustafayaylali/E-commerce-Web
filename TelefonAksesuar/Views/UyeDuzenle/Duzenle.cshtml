@@ -1,0 +1,122 @@
+﻿@model TelefonAksesuar.Models.Uyeler
+
+@{
+    ViewBag.Title = "Üye Paneli";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">
+                Üye Düzenleme Formu
+                <small></small>
+            </h1>
+            <ol class="breadcrumb">
+                <li>
+                    @Html.ActionLink("Anasayfa", "Index", "Home")
+
+                </li>
+                <li class="active">Üye Düzenle</li>
+            </ol>
+        </div>
+    </div>
+    
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            
+            <hr />
+            @Html.ValidationSummary(true)
+            @Html.HiddenFor(model => model.UyeID)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Ad, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Ad, new { @class = "form-control", style = "width:200px" })
+                    @Html.ValidationMessageFor(model => model.Ad)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Soyad, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Soyad, new { @class = "form-control", style = "width:200px" })
+                    @Html.ValidationMessageFor(model => model.Soyad)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.EMail, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.EMail, new { @class = "form-control", style = "width:200px" })
+                    @Html.ValidationMessageFor(model => model.EMail)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.KullaniciAdi, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.KullaniciAdi, new { @class = "form-control", style = "width:200px" })
+                    @Html.ValidationMessageFor(model => model.KullaniciAdi)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Sifre, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.PasswordFor(model => model.Sifre, new { @class = "form-control", style = "width:200px" })
+                    @Html.ValidationMessageFor(model => model.Sifre)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Yas, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Yas, new { @class = "form-control", style = "width:200px" })
+                    @Html.ValidationMessageFor(model => model.Yas)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Sehir, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Sehir, new { @class = "form-control", style = "width:200px" })
+                    @Html.ValidationMessageFor(model => model.Sehir)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Adres, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Adres, new { @class = "form-control", style = "width:200px" })
+                    @Html.ValidationMessageFor(model => model.Adres)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Yetki, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownListFor(model => model.Yetki, new List<SelectListItem>
+                                          {
+                                            new SelectListItem() {Text = "admin"},
+                                            new SelectListItem() {Text = "uye"},
+                                         }, new { @class = "form-control", style = "width:200px" })
+
+                    @Html.ValidationMessageFor(model => model.Yetki)
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Güncelle" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+
+    <div>
+        @Html.ActionLink("Üyeler Listesine Dön", "Index")
+    </div>
+</div>

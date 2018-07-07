@@ -1,0 +1,92 @@
+﻿@model TelefonAksesuar.ViewModels.UyeOlModel
+
+@{
+    ViewBag.Title = TelefonAksesuar.Resources.lang.UyeOl;
+}
+
+<style>
+    .field-validation-error{ color: #18BC9C; font-weight: bold; font-size:14px;}
+</style>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">
+                @TelefonAksesuar.Resources.lang.UyeOl
+            </h1>
+            <ol class="breadcrumb">
+                <li>
+                    @Html.ActionLink(TelefonAksesuar.Resources.lang.Anasayfa, "Index", "Home")
+            </li>
+            <li class="active">@TelefonAksesuar.Resources.lang.UyeOl</li>
+        </ol>
+            <br />
+            <p>
+            @if (Model.KullaniciyaMesaj != null)
+            {
+                <div class="alert alert-dismissible alert-success">
+                    <button type="button" class="close" data-dismiss="alert">&times;</button>
+                    @Model.KullaniciyaMesaj
+                </div>
+            }
+            </p>
+            @using (Html.BeginForm("Index", "UyeOl", FormMethod.Post))
+            {
+                <div class="row" >
+                    
+                    <table align="center">
+                        <tr>
+                            <td width="125px" align="right"> <label >@Html.Label(TelefonAksesuar.Resources.lang.Ad):&nbsp;&nbsp;</label> </td>
+                            <td> @Html.TextBoxFor(m => m.Ad, new { @class = "form-control"}) @Html.ValidationMessageFor(m => m.Ad) </td>
+                           
+                        </tr>
+                        <tr>
+                            <td width="125px" align="right"> <br /><label >@Html.Label(TelefonAksesuar.Resources.lang.Soyad):&nbsp;&nbsp;</label> </td>
+                            <td> <br />@Html.TextBoxFor(m=>m.Soyad, new { @class = "form-control" }) @Html.ValidationMessageFor(m => m.Soyad)</td>
+                        </tr>
+                        <tr>
+                            <td width="125px" align="right"><br /> <label>@Html.LabelFor(m=>m.Email):&nbsp;&nbsp;</label> </td>
+                            <td><br /> @Html.TextBoxFor(m=>m.Email, new { @class = "form-control" })@Html.ValidationMessageFor(m => m.Email) </td>
+                        </tr>
+                        <tr>
+                            <td width="125px" align="right"><br /> <label>@Html.Label(TelefonAksesuar.Resources.lang.KullanıcıAdı):&nbsp;&nbsp;</label> </td>
+                            <td><br /> @Html.TextBoxFor(m=>m.KullaniciAdi, new { @class = "form-control" }) @Html.ValidationMessageFor(m => m.KullaniciAdi)</td>
+                        </tr>
+                        <tr>
+                            <td width="125px" align="right"><br /> <label >@Html.Label(TelefonAksesuar.Resources.lang.Sifre):&nbsp;&nbsp;</label> </td>
+                            <td><br /> @Html.PasswordFor(m => m.Sifre, new { @class = "form-control" })  @Html.ValidationMessageFor(m => m.Sifre)</td>
+                        </tr>
+                        <tr>
+                            <td width="125px" align="right"><br /> <label >@Html.Label(TelefonAksesuar.Resources.lang.Yas):&nbsp;&nbsp;</label> </td>
+                            <td><br /> @Html.TextBoxFor(m=>m.Yas, new { @class = "form-control" }) @Html.ValidationMessageFor(m => m.Yas)</td>
+                        </tr>
+                        <tr>
+                            <td width="125px" align="right"><br /> <label >@Html.Label(TelefonAksesuar.Resources.lang.Sehir):&nbsp;&nbsp;</label> </td>
+                            <td><br />@Html.TextBoxFor(m => m.Sehir, new { @class = "form-control" }) @Html.ValidationMessageFor(m => m.Sehir)</td>
+                        </tr>
+                        <tr>
+                            <td width="125px" align="right"><br /> <label>@Html.Label(TelefonAksesuar.Resources.lang.Adres):&nbsp;&nbsp;</label> </td>
+                            <td>
+                               <br /> @Html.TextAreaFor(m=>m.Adres, new { @class = "form-control" ,  cols = 30, rows = 7, style="resize:none" })@Html.ValidationMessageFor(m => m.Adres)
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td colspan="2" align="right"><br /> <button class="btn btn-primary" type="submit">@TelefonAksesuar.Resources.lang.UyeOl</button> </td>
+                        </tr>
+                    </table>
+
+                </div>  
+            }
+            <br /><br />
+
+    </div>
+</div>
+
+    
+</div>
+@section scripts{
+
+
+    @Scripts.Render("~/bundles/jqueryval")
+}

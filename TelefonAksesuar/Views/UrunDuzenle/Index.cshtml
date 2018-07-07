@@ -1,0 +1,88 @@
+﻿@model IEnumerable<TelefonAksesuar.Models.Urunler>
+
+@{
+    ViewBag.Title = "Ürünler Listesi";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">
+                Ürünler Listesi
+                <small></small>
+            </h1>
+            <ol class="breadcrumb">
+                <li>
+                    @Html.ActionLink("Anasayfa", "Index", "Home")
+
+                </li>
+                <li class="active">Ürünler Listesi</li>
+            </ol>
+        </div>
+    </div>
+
+    <div class="panel-heading">
+        <h4><br /></h4>
+        <a href="/UrunEkle/Ekle" class="btn btn-success btn-sm tooltips pull-right" title="Yeni Slide" style="margin-top:-33px;">+Yeni Ürün</a>
+    </div>
+
+        <table class="table table-striped table-hover ">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Kategori)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Marka)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Model)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Fiyat)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Stok)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Resim)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @{ int sayi = 0;}
+                @foreach (var item in Model)
+                {
+                    sayi = sayi + 1;
+                    string stil = "active";
+                    if (sayi % 2 == 1) { stil = ""; }
+                    <tr class="@stil">
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Kategori)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Marka)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Model)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Fiyat)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Stok)
+                        </td>
+                        <td>
+                            @Html.HiddenFor(modelItem => item.Resim)
+                            <img src="~/Images/Urunler/@item.Resim" width="50" height="40" />
+                        </td>
+                        <td>
+                            @Html.ActionLink("Düzenle", "Duzenle", new { id = item.UrunID }) |
+                            @Html.ActionLink("Sil", "Sil", new { id = item.UrunID })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>

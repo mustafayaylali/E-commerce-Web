@@ -1,0 +1,71 @@
+﻿@{
+    ViewBag.Title =TelefonAksesuar.Resources.lang.İletişim;
+}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">@TelefonAksesuar.Resources.lang.İletişim <small></small></h1>
+            <ol class="breadcrumb">
+                <li>@Html.ActionLink(TelefonAksesuar.Resources.lang.Anasayfa, "Index", "Home")</li>
+                <li class="active">@TelefonAksesuar.Resources.lang.İletişim</li>
+            </ol>
+        </div>
+        <div class="col-lg-12">
+            <!-- Embedded Google Map using an iframe - to select your location find it on Google maps and paste the link as the iframe src. If you want to use the Google Maps API instead then have at it! -->
+            <iframe width="100%" scrolling="no" height="400" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2616.4302699884042!2d30.325597543927564!3d40.742231890228304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd81085b5551312fd!2sBilgisayar+Ve+Bili%C5%9Fim+Bilimleri+Fak%C3%BCltesi!5e0!3m2!1sen!2sus!4v1481489651198" marginwidth="0" marginheight="0"></iframe>
+      
+        </div>
+    </div><!-- /.row -->
+    <div class="row">
+        <div class="col-sm-8">
+            <h3>Önerileriniz ve Şikayetleriniz!</h3>
+            <p>Aşağıdaki formdan bize ulaşabilirsiniz</p>
+            @using (Html.BeginForm("Gonder", "Iletisim"))
+            {
+                <div class="row">
+                    <div class="form-group col-lg-4">
+                        <label for="input1">İsim</label><br />
+                         @Html.TextBox("isim")
+                    </div>
+                    <div class="form-group col-lg-4">
+                        <label for="input2">E-posta Adresi</label>
+                       @Html.TextBox("email")
+                    </div>
+                    <div class="form-group col-lg-4">
+                        <label for="input3">Telefon Numarası</label>
+                        @Html.TextBox("telefon")
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="form-group col-lg-12">
+                        <label for="input4">Mesajınız</label>
+                        @Html.TextArea("mesaj", new { @class = "form-control", rows = 6,style="resize:none" })
+                  
+                    </div>
+                    <div class="form-group col-lg-12">          
+                        <button class="btn btn-primary" type="submit">Mesaj Gönder</button>
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="col-sm-4">
+            <h3>Telefon Aksesuar</h3>
+            <h4><br />Depo Adresi:</h4>
+            <p>
+                Sakarya Üniversitesi<br />
+                Bilgisayar ve Bilişim Bilimleri Fakültesi,<br />
+                54187 Serdivan/Sakarya, Türkiye<br />
+                
+            </p>
+            <p><i class="fa fa-phone"></i> <abbr title="Phone">Telefon</abbr>: (539) 999-5555</p>
+            <p><i class="fa fa-envelope-o"></i> <abbr title="Email">E Mail</abbr>: <a href="mailto:b140910051@sakarya.edu.tr">b140910051@sakarya.edu.tr</a></p>
+            <p><i class="fa fa-clock-o"></i> <abbr title="Hours">Çalışma Saatleri</abbr>: Her gün : 9:00 - 18:00  <br /></p>
+           
+        </div>
+    </div><!-- /.row -->
+</div>
+
+@section scripts{
+
+
+    @Scripts.Render("~/bundles/jqueryval")
+}

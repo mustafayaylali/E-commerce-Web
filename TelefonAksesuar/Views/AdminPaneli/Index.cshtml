@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "Admin Paneli";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">
+                Admin Paneli
+                <small>Siteyi yönetin</small>
+            </h1>
+            <ol class="breadcrumb">
+                <li>
+                    @Html.ActionLink("Anasayfa", "Index", "Home")
+
+                </li>
+                <li class="active">Admin Paneli</li>
+            </ol>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <div id="accordion" class="panel-group">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a href="#uyeIslem" data-parent="#accordion" data-toggle="collapse" class="accordion-toggle collapsed">
+                                Ürün İşlemleri
+                            </a>
+                        </h4>
+                    </div>
+                    <div class="panel-collapse collapse" id="uyeIslem" style="height: 0px;">
+                        <div class="panel-body">                         
+                            @Html.ActionLink("Ürün Ekle","Ekle","UrunEkle")
+                            @Html.ActionLink("Ürünleri Gör", "Index", "UrunDuzenle")
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a href="#urunIslem" data-parent="#accordion" data-toggle="collapse" class="accordion-toggle collapsed">
+                                Üye İşlemleri
+                            </a>
+                        </h4>
+                    </div>
+                    <div class="panel-collapse collapse" id="urunIslem" style="height: 0px;">
+                        <div class="panel-body">
+                           @Html.ActionLink("Üyeleri Gör", "Index", "UyeDuzenle")
+                            @Html.ActionLink("Üye Ekle", "Ekle", "UyeDuzenle")
+                           
+                        </div>
+                    </div>
+                </div>
+                                    
+            </div>
+        </div>
+    </div>
+</div>

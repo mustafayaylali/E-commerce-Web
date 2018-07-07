@@ -1,0 +1,531 @@
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\TelefonAksesuar.dll.config
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\TelefonAksesuar.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\TelefonAksesuar.pdb
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Antlr3.Runtime.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\EntityFramework.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\EntityFramework.SqlServer.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Owin.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Owin.Security.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Newtonsoft.Json.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Owin.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\System.Web.Helpers.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\System.Web.Mvc.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\System.Web.Optimization.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\System.Web.Razor.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\System.Web.WebPages.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\System.Web.WebPages.Razor.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\WebGrease.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\System.Web.Helpers.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\System.Web.Mvc.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\System.Web.Optimization.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\System.Web.Razor.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\System.Web.WebPages.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\System.Web.WebPages.Razor.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Newtonsoft.Json.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Antlr3.Runtime.pdb
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\EntityFramework.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\EntityFramework.SqlServer.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Owin.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Owin.Security.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\obj\Debug\TelefonAksesuar.csprojResolveAssemblyReference.cache
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\obj\Debug\TelefonAksesuar.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar\TelefonAksesuar\obj\Debug\TelefonAksesuar.pdb
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\TelefonAksesuar.dll.config
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\TelefonAksesuar.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\TelefonAksesuar.pdb
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Antlr3.Runtime.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\EntityFramework.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\EntityFramework.SqlServer.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Owin.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Owin.Security.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Newtonsoft.Json.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Owin.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\System.Web.Helpers.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\System.Web.Mvc.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\System.Web.Optimization.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\System.Web.Razor.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\System.Web.WebPages.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\System.Web.WebPages.Razor.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\WebGrease.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\System.Web.Helpers.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\System.Web.Mvc.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\System.Web.Optimization.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\System.Web.Razor.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\System.Web.WebPages.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\System.Web.WebPages.Razor.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Newtonsoft.Json.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Antlr3.Runtime.pdb
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\EntityFramework.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\EntityFramework.SqlServer.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Owin.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Owin.Security.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\obj\Debug\TelefonAksesuar.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\obj\Debug\TelefonAksesuar.pdb
+C:\Users\Programlama\Desktop\TelefonAksesuar1\TelefonAksesuar\obj\Debug\TelefonAksesuar.csprojResolveAssemblyReference.cache
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\TelefonAksesuar.dll.config
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\TelefonAksesuar.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\TelefonAksesuar.pdb
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Antlr3.Runtime.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\EntityFramework.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\EntityFramework.SqlServer.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Owin.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Owin.Security.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Newtonsoft.Json.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Owin.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\System.Web.Helpers.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\System.Web.Mvc.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\System.Web.Optimization.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\System.Web.Razor.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\System.Web.WebPages.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\System.Web.WebPages.Razor.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\WebGrease.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\System.Web.Helpers.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\System.Web.Mvc.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\System.Web.Optimization.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\System.Web.Razor.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\System.Web.WebPages.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\System.Web.WebPages.Razor.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Newtonsoft.Json.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Antlr3.Runtime.pdb
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\EntityFramework.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\EntityFramework.SqlServer.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Owin.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Owin.Security.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\obj\Debug\TelefonAksesuar.csprojResolveAssemblyReference.cache
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\obj\Debug\TelefonAksesuar.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 - Copy\TelefonAksesuar\obj\Debug\TelefonAksesuar.pdb
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\TelefonAksesuar.dll.config
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\TelefonAksesuar.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\TelefonAksesuar.pdb
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Antlr3.Runtime.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\EntityFramework.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\EntityFramework.SqlServer.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Owin.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Owin.Security.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Newtonsoft.Json.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Owin.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\System.Web.Helpers.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\System.Web.Mvc.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\System.Web.Optimization.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\System.Web.Razor.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\System.Web.WebPages.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\System.Web.WebPages.Razor.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\WebGrease.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\System.Web.Helpers.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\System.Web.Mvc.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\System.Web.Optimization.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\System.Web.Razor.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\System.Web.WebPages.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\System.Web.WebPages.Razor.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Newtonsoft.Json.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Antlr3.Runtime.pdb
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\EntityFramework.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\EntityFramework.SqlServer.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Owin.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Owin.Security.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\obj\Debug\TelefonAksesuar.csprojResolveAssemblyReference.cache
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\obj\Debug\TelefonAksesuar.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -temiz\TelefonAksesuar\obj\Debug\TelefonAksesuar.pdb
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\TelefonAksesuar.dll.config
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\TelefonAksesuar.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\TelefonAksesuar.pdb
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Antlr3.Runtime.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\EntityFramework.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\EntityFramework.SqlServer.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Owin.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Owin.Security.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Newtonsoft.Json.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Owin.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\System.Web.Helpers.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\System.Web.Mvc.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\System.Web.Optimization.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\System.Web.Razor.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\System.Web.WebPages.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\System.Web.WebPages.Razor.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\WebGrease.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\System.Web.Helpers.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\System.Web.Mvc.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\System.Web.Optimization.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\System.Web.Razor.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\System.Web.WebPages.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\System.Web.WebPages.Razor.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Newtonsoft.Json.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Antlr3.Runtime.pdb
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\EntityFramework.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\EntityFramework.SqlServer.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Owin.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Owin.Security.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\obj\Debug\TelefonAksesuar.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\obj\Debug\TelefonAksesuar.pdb
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\obj\Debug\TelefonAksesuar.csprojResolveAssemblyReference.cache
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\log4net.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\Migrations.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql\TelefonAksesuar\bin\log4net.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\TelefonAksesuar.dll.config
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\TelefonAksesuar.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\TelefonAksesuar.pdb
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Antlr3.Runtime.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\EntityFramework.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\EntityFramework.SqlServer.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\log4net.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Owin.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Owin.Security.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Migrations.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Newtonsoft.Json.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Owin.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\System.Web.Helpers.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\System.Web.Mvc.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\System.Web.Optimization.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\System.Web.Razor.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\System.Web.WebPages.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\System.Web.WebPages.Razor.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\WebGrease.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\log4net.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\System.Web.Helpers.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\System.Web.Mvc.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\System.Web.Optimization.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\System.Web.Razor.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\System.Web.WebPages.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\System.Web.WebPages.Razor.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Newtonsoft.Json.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Antlr3.Runtime.pdb
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\EntityFramework.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\EntityFramework.SqlServer.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Owin.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Owin.Security.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\obj\Debug\TelefonAksesuar.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\obj\Debug\TelefonAksesuar.pdb
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\bin\en\TelefonAksesuar.resources.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\obj\Debug\TelefonAksesuar.Resources.lang.resources
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\obj\Debug\TelefonAksesuar.Resources.lang.en.resources
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\obj\Debug\TelefonAksesuar.csproj.GenerateResource.Cache
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\obj\Debug\en\TelefonAksesuar.resources.dll
+C:\Users\Programlama\Desktop\TelefonAksesuar1 -sql - yeni\TelefonAksesuar\obj\Debug\TelefonAksesuar.csprojResolveAssemblyReference.cache
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\TelefonAksesuar.dll.config
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\TelefonAksesuar.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\TelefonAksesuar.pdb
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\en\TelefonAksesuar.resources.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Antlr3.Runtime.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\EntityFramework.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\EntityFramework.SqlServer.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\log4net.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Migrations.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Newtonsoft.Json.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Owin.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Helpers.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Mvc.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Optimization.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Razor.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.WebPages.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.WebPages.Razor.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\WebGrease.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\EntityFramework.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\EntityFramework.SqlServer.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\log4net.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Helpers.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Mvc.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Optimization.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Razor.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.WebPages.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.WebPages.Razor.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Newtonsoft.Json.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Antlr3.Runtime.pdb
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.csprojResolveAssemblyReference.cache
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.Resources.lang.resources
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.Resources.lang.en.resources
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.csproj.GenerateResource.Cache
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\en\TelefonAksesuar.resources.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.dll
+C:\Users\Programlama\Desktop\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.pdb
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\TelefonAksesuar.dll.config
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\TelefonAksesuar.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\TelefonAksesuar.pdb
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\en\TelefonAksesuar.resources.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Antlr3.Runtime.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\EntityFramework.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\EntityFramework.SqlServer.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\log4net.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Migrations.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Newtonsoft.Json.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Owin.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Helpers.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Mvc.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Optimization.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Razor.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.WebPages.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.WebPages.Razor.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\WebGrease.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\EntityFramework.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\EntityFramework.SqlServer.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\log4net.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Helpers.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Mvc.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Optimization.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Razor.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.WebPages.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.WebPages.Razor.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Newtonsoft.Json.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Antlr3.Runtime.pdb
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.csprojResolveAssemblyReference.cache
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.Resources.lang.resources
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.Resources.lang.en.resources
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.csproj.GenerateResource.Cache
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\en\TelefonAksesuar.resources.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.dll
+C:\Users\Programlama\Desktop\2.SINIF\1.Dönem\Web Programlama\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.pdb
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\TelefonAksesuar.dll.config
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\TelefonAksesuar.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\TelefonAksesuar.pdb
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\en\TelefonAksesuar.resources.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Antlr3.Runtime.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\EntityFramework.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\EntityFramework.SqlServer.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\log4net.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Migrations.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Newtonsoft.Json.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Owin.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Helpers.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Mvc.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Optimization.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Razor.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.WebPages.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\WebGrease.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\EntityFramework.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\EntityFramework.SqlServer.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\log4net.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Helpers.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Mvc.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Optimization.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.Razor.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.WebPages.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Newtonsoft.Json.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Antlr3.Runtime.pdb
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.Resources.lang.resources
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.Resources.lang.en.resources
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\en\TelefonAksesuar.resources.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.dll
+C:\Users\Mustafa\Desktop\MUSTAFA- HardDisk 29agu\PROJELER\TelefonAksesuar-Ticaret Web Sİtesi\TelefonAksesuar\obj\Debug\TelefonAksesuar.pdb

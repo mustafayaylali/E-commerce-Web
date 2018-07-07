@@ -1,0 +1,249 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="shortcut icon" href="~/ikon.ico"> 
+
+    <title>Telefon Aksesuar - @ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <!-- Bootstrap -->
+    <link href="@Url.Content("/css/bootstrap.css")" rel="stylesheet">
+    <link href="@Url.Content("/css/modern-business.css")" rel="stylesheet">
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    @Scripts.Render("~/bundles/jqueryval")
+
+
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+                <div class="navbar-header"> 
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-2" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                       </button>
+                        
+                         <a href="@Url.Action("Index", "Home")">
+                            <img src="@Url.Content("~/Images/amblem.png")" />
+                        </a>
+
+</div>
+            
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="navbar-collapse collapse in" id="bs-example-navbar-collapse-2" aria-expanded="true">
+                <ul class="nav navbar-nav navbar-right">
+                    @if (Session["kadi"] != null)
+                    {
+                        if (Session["yetki"].ToString() == "admin")
+                        {
+
+                            <li id="Urunler" class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">@TelefonAksesuar.Resources.lang.Ürünler  <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    <li id="kiliflar">
+                                        @Html.ActionLink(TelefonAksesuar.Resources.lang.Kılıflar, "Kiliflar", "Urunler")
+                                    </li>
+                                    <li id="kulakliklar">
+                                        @Html.ActionLink(TelefonAksesuar.Resources.lang.Kulaklıklar, "Kulakliklar", "Urunler")
+                                    </li>
+                                    <li id="sarjcihazlari">
+                                        @Html.ActionLink(TelefonAksesuar.Resources.lang.ŞarjCihazları, "SarjCihazlari", "Urunler")
+                                    </li>
+
+                                </ul>
+                            </li>
+
+                            <li id="AdminPanel" class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">@TelefonAksesuar.Resources.lang.AdminPaneli  <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    <li id="uyeler">
+                                        @Html.ActionLink("Üye Paneli", "Index", "UyeDuzenle")
+                                    </li>
+                                    <li id="urunler">
+                                        @Html.ActionLink("Ürün Paneli", "Index", "UrunDuzenle")
+                                    </li>  
+                                    <li id="siparisler">
+                                        @Html.ActionLink("Sipariş Paneli", "Index", "SiparisDuzenle")
+                                    </li>                                   
+                                </ul>
+                            </li>                            
+                            <li id="profil">
+                                @Html.ActionLink(TelefonAksesuar.Resources.lang.Profilim, "Index", "Profil")
+                            </li>
+                            <li id="cikis">
+                                @Html.ActionLink(TelefonAksesuar.Resources.lang.Çıkış, "Cikis", "Giris")
+                            </li>
+
+                            <li id="mesaj">
+                                <span class="label label-danger">@TelefonAksesuar.Resources.lang.Hoşgeldin</span>
+                                  <br />
+                                <center>
+                                    <a href="~/Profil" class="btn btn-danger btn-xs"> @Session["kadi"].ToString()</a> 
+                                </center>
+                            </li>
+
+                        }
+                        else if (Session["yetki"].ToString() == "uye")
+                        {
+
+                            <li id="Urunler" class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">@TelefonAksesuar.Resources.lang.Ürünler  <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    <li id="kiliflar">
+                                        @Html.ActionLink(TelefonAksesuar.Resources.lang.Kılıflar, "Kiliflar", "Urunler")
+                                    </li>
+                                    <li id="kulakliklar">
+                                        @Html.ActionLink(TelefonAksesuar.Resources.lang.Kulaklıklar, "Kulakliklar", "Urunler")
+                                    </li>
+                                    <li id="sarjcihazlari">
+                                        @Html.ActionLink(TelefonAksesuar.Resources.lang.ŞarjCihazları, "SarjCihazlari", "Urunler")
+                                    </li>
+
+                                </ul>
+                            </li>
+
+                            <li id="siparis">
+                                @Html.ActionLink(TelefonAksesuar.Resources.lang.Siparişlerim, "Index", "Siparis")
+                            </li>
+
+                            <li>
+                                <a href="~/Sepet">@TelefonAksesuar.Resources.lang.Sepetim <span class="badge">@Session["sepet"]</span></a>
+                            </li>
+                                <li id="profil">
+                                    @Html.ActionLink(TelefonAksesuar.Resources.lang.Profilim, "Index", "Profil")
+                                </li>
+                                <li id="iletisim">
+                                    @Html.ActionLink(TelefonAksesuar.Resources.lang.İletişim, "Index", "Iletisim")
+                                </li>
+                                <li id="cikis">
+                                    @Html.ActionLink(TelefonAksesuar.Resources.lang.Çıkış, "Cikis", "Giris")
+                                </li>
+
+                                <li id="mesaj">
+                                    <span class="label label-primary disabled">@TelefonAksesuar.Resources.lang.Hoşgeldin</span>
+                                    <br />
+                                    <center>
+                                              <a href="~/Profil" class="btn btn-primary btn-xs"> @Session["kadi"].ToString()</a>                                        
+                                    </center>
+                                </li>
+                        }
+
+
+                    }
+                    else
+                    {
+
+                        <li id="giris">
+                            @Html.ActionLink(TelefonAksesuar.Resources.lang.Giris, "Index", "Giris") 
+
+                        </li>
+                                <li id="uyeol">
+                                    @Html.ActionLink(TelefonAksesuar.Resources.lang.UyeOl, "Index", "UyeOl")
+                                </li>
+
+
+                                <li id="Urunler" class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">@TelefonAksesuar.Resources.lang.Ürünler  <b class="caret"></b></a>
+                                    <ul class="dropdown-menu">
+                                        <li id="kiliflar">
+                                            @Html.ActionLink(TelefonAksesuar.Resources.lang.Kılıflar, "Kiliflar", "Urunler")
+                                        </li>
+                                        <li id="kulakliklar">
+                                            @Html.ActionLink(TelefonAksesuar.Resources.lang.Kulaklıklar, "Kulakliklar", "Urunler")
+                                        </li>
+                                        <li id="sarjcihazlari">
+                                            @Html.ActionLink(TelefonAksesuar.Resources.lang.ŞarjCihazları, "SarjCihazlari", "Urunler")
+                                        </li>
+
+                                    </ul>
+                                </li>
+
+
+
+                                <li id="iletisim">
+                                    @Html.ActionLink(TelefonAksesuar.Resources.lang.İletişim, "Index", "Iletisim")
+                                </li>
+
+                    }
+
+                    <li id="ara">
+                       
+                        <div class="navbar-form navbar-left" role="search">
+                            <div class="form-group">
+                                @using (Html.BeginForm("Index", "Urunler"))
+                                {
+                                    @Html.TextBox("Arama", null, new { @class = "form-control", style = "width:150px", placeholder = @TelefonAksesuar.Resources.lang.UrunIsmi })
+
+                                    <button type="submit" class="btn btn-default">@TelefonAksesuar.Resources.lang.Ara</button>
+                                }
+                            </div>
+
+                        </div>
+
+                    </li>
+
+
+                    <li id="dil" class="dropdown">
+
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">@TelefonAksesuar.Resources.lang.Dil <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("TR", "ChangeCulture", "Home", new { lang = "tr", returnUrl = this.Request.RawUrl }, null)</li>
+                            <li>@Html.ActionLink("EN", "ChangeCulture", "Home", new { lang = "en", returnurl = this.Request.RawUrl }, null)</li>
+                        </ul>
+                    </li>
+
+                </ul>
+            </div>
+
+            <!-- /.navbar-collapse -->
+
+
+
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    @RenderBody()
+
+    <div class="container">
+
+        <hr>
+
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p align="right">Copyright &copy; 2016-Designed By M.Yaylalı </p>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="@Url.Content("/js/bootstrap.js")"></script>
+    <script src="@Url.Content("/js/modern-business.js")"></script>
+
+    
+   
+
+    @RenderSection("scripts", required: false)
+
+</body>
+</html>

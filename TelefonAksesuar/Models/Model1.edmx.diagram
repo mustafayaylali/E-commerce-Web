@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d11e9fbf92b549a784ea470df4ccb16b" Name="Diagram1" ZoomLevel="86">
+        <EntityTypeShape EntityType="TelefonAksesuarModel.sysdiagrams" Width="1.5" PointX="6" PointY="5.625" />
+        <EntityTypeShape EntityType="TelefonAksesuarModel.Urunler" PointX="7" PointY="0.5" Width="1.5" />
+        <EntityTypeShape EntityType="TelefonAksesuarModel.Sepetim" Width="1.5" PointX="4.5" PointY="1.125" />
+        <EntityTypeShape EntityType="TelefonAksesuarModel.Siparisler" Width="1.5" PointX="0.5" PointY="3.875" />
+        <EntityTypeShape EntityType="TelefonAksesuarModel.Yorumlar" Width="1.5" PointX="7.75" PointY="4.125" />
+        <AssociationConnector Association="TelefonAksesuarModel.FK_Yorumlar_Urunler" />
+        <EntityTypeShape EntityType="TelefonAksesuarModel.Uyeler" Width="1.5" PointX="2.375" PointY="1" />
+        <AssociationConnector Association="TelefonAksesuarModel.FK_Sepetim_Uyeler" />
+        <AssociationConnector Association="TelefonAksesuarModel.FK_Siparisler_Uyeler" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

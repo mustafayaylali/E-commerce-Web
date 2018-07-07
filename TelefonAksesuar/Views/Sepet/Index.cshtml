@@ -1,0 +1,108 @@
+﻿@model IEnumerable<TelefonAksesuar.Models.Sepetim>
+
+@{
+    ViewBag.Title = "Sepetim";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">
+                SEPETİM
+
+            </h1>
+            <ol class="breadcrumb">
+                <li>
+                    @Html.ActionLink("Anasayfa", "Index", "Home")
+                </li>
+                <li class="active">Sepetim</li>
+            </ol>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+
+
+            @{
+                int? genelToplam = 0;
+                int sayi = 0;
+
+            }
+            <table class="table table-striped table-hover ">
+                <thead>
+                    <tr>
+                        <th><b>ÜRÜN ADI</b></th>
+                        <th><b>ADET</b></th>
+                        <th><b>FİYAT</b></th>
+                        <th><b>ARA TOPLAM</b></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                @foreach (var urun in Model)
+                {
+                    if (urun.UyeID.ToString() == Session["id"].ToString())
+                    {
+                        <tr class="active">
+                            <td>@urun.UrunAd </td>
+                            <td>@urun.Adet</td>
+                            <td>@urun.Fiyat TL</td>
+                            <td>@urun.ToplamFiyat TL</td>
+                            <td>@Html.ActionLink("Kaldır", "Sil", new { controller = "Sepet", no = urun.SepetNo })</td>
+
+                        </tr>
+                        genelToplam = genelToplam + urun.ToplamFiyat;
+                        sayi = sayi + 1;
+                    }
+                }
+                  
+                </tbody>
+            </table>
+
+               
+             @{Session["sepet"] = sayi;}
+
+        </div>
+
+
+    </div>
+
+    <div class="row">
+        <div class="col-lg-12">
+            <br /><br /><br />
+            <div class="col-lg-5"></div>           
+            @if (genelToplam != 0)
+            {
+                <div class="col-lg-3"><br /><font style="color:darkblue">Sepet Toplam Fiyatı =<b> @genelToplam TL</b></font></div>
+                <div class="col-lg-2">
+                    <a href="@Url.Action("Ekle", "Siparis", new { Uyeid = Session["id"], Ozet =sayi+" urun",Adres=Session["adres"],Fiyat=genelToplam })" class="btn btn-primary">Sipariş Ver </a>
+                </div>
+                <div class="col-lg-2">
+                    <a href="@Url.Action("Sil", "Sepet", new { id = Session["id"] })" class="btn btn-default">Sepeti Temizle</a>
+                </div>
+            }
+            else
+            {
+                <div class="col-lg-7">
+                    <div class="panel panel-info">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">Bilgilendirme</h3>
+                        </div>
+                        <div class="panel-body">
+                            *Sepetinizde ürün bulunmamaktadır. Alışverişe <b> @Html.ActionLink("buradan", "Kiliflar", "Urunler") </b> başlayabilirsiniz
+                        </div>
+                    </div>
+                </div>
+                
+            }
+
+         </div>
+    </div>
+   
+ </div>
+
+   
+
+
+    
+    

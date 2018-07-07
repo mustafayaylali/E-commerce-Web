@@ -1,0 +1,3 @@
+SQL de Restore database ile bu db yi back up yap
+
+VS studioada Models altýndaki modele SQL baðlantýsý yap

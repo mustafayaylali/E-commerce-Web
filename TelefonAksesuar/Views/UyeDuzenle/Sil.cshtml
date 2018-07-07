@@ -1,0 +1,111 @@
+﻿@model TelefonAksesuar.Models.Uyeler
+
+@{
+    ViewBag.Title = "Üye Sil";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">
+                
+
+            </h1>
+            <ol class="breadcrumb">
+                <li>
+                    @Html.ActionLink("Anasayfa", "Index", "Home")
+                </li>
+                <li class="active">Üye Sil</li>
+            </ol>
+        </div>
+    </div>
+
+    <h3>@Html.DisplayFor(model => model.KullaniciAdi) adlı üyeyi kalıcı olarak silmek istediğine emin misin?</h3>
+    <div>
+        <h4></h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Ad)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Ad)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Soyad)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Soyad)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.EMail)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.EMail)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.KullaniciAdi)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.KullaniciAdi)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Sifre)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Sifre)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Yas)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Yas)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Sehir)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Sehir)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Adres)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Adres)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Yetki)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Yetki)
+            </dd>
+
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Sil" class="btn btn-default" /> |
+                @Html.ActionLink("Üyeler Listesi", "Index")
+            </div>
+        }
+    </div>
+</div>

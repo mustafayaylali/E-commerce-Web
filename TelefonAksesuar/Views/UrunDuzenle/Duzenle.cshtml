@@ -1,0 +1,78 @@
+﻿@model TelefonAksesuar.Models.Urunler
+
+@{
+    ViewBag.Title = "Ürün Düzenle";
+}
+<div class="container">
+    <h2></h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h2>Ürünü Düzenle</h2>
+            <hr />
+            @Html.ValidationSummary(true)
+            @Html.HiddenFor(model => model.UrunID)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Kategori, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Kategori)
+                    @Html.ValidationMessageFor(model => model.Kategori)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Marka, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Marka)
+                    @Html.ValidationMessageFor(model => model.Marka)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Model, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Model)
+                    @Html.ValidationMessageFor(model => model.Model)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Fiyat, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Fiyat)
+                    @Html.ValidationMessageFor(model => model.Fiyat)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Stok, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Stok)
+                    @Html.ValidationMessageFor(model => model.Stok)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Resim, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.Resim, new { type = "file" })
+                    @Html.ValidationMessageFor(model => model.Resim)
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Güncelle" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+
+    <div>
+        @Html.ActionLink("Ürünler Listesi", "Index")
+    </div>
+</div>

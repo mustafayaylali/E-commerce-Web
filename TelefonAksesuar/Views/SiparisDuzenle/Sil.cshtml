@@ -1,0 +1,73 @@
+﻿@model TelefonAksesuar.Models.Siparisler
+
+@{
+    ViewBag.Title = "Sipariş Sil";
+}
+
+<div class="container">
+    <h3></h3>
+    <div>
+        <h3>Aşağıdaki siparişi silmek istiyor musunuz?</h3>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.SiparisOzet)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.SiparisOzet)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Tarih)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Tarih)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Adres)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Adres)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Durum)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Durum)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Fiyat)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Fiyat)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Uyeler.Ad)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Uyeler.Ad)
+            </dd>
+
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Sil" class="btn btn-default" /> |
+                @Html.ActionLink("Siparişler Listesi", "Index")
+            </div>
+        }
+    </div>
+</div>

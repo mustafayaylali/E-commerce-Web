@@ -1,0 +1,98 @@
+﻿@model IEnumerable<TelefonAksesuar.Models.Siparisler>
+@{
+    ViewBag.Title = "Siparişlerim";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <h4 class="page-header">
+                
+            </h4>
+            <div class="alert alert-dismissible alert-link">
+                <button type="button" class="close" data-dismiss="alert" style="color:black">&times;</button>
+                <h4>Sipariş Teslim Aşamaları</h4>
+                <p>
+                    <div class="progress progress-striped active" style="height:20px;width: 20%">
+                        <div class="progress-bar progress-bar-danger" style="width: 100%">Siparişiniz alındı</div>
+                    </div>
+
+                    <div class="progress progress-striped active" style="height:20px;width: 40%">
+                        <div class="progress-bar progress-bar-warning" style="width: 100%">Ürünler paketleniyor</div>
+                    </div>
+
+                    <div class="progress progress-striped active" style="height:20px;width: 60%">
+                        <div class="progress-bar progress-bar-info" style="width: 100%">Siparişiniz yola çıktı</div>
+                    </div>
+
+                    <div class="progress progress-striped active" style="height:20px;width: 80%">
+                        <div class="progress-bar progress-bar-success" style="width: 100%">Siparişiniz teslim edildi</div>
+                    </div>
+                </p>
+            </div>
+           
+            <ol class="breadcrumb">
+                <li>
+                    @Html.ActionLink("Anasayfa", "Index", "Home")
+                </li>
+                <li class="active">Siparişlerim</li>
+            </ol>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="col-lg-1"><b>SIRA</b></div>
+            <div class="col-lg-2"><b>SİPARİŞ ÖZETİ</b></div>
+            <div class="col-lg-3"><b>ADRES</b></div>
+            <div class="col-lg-2"><b>TARİH</b></div>
+            <div class="col-lg-2"><b>ÖDEME MİKTARI</b></div>
+            <div class="col-lg-2"><b>SİPARİŞ DURUMU</b></div>
+            
+            <br />
+            @{
+                int sayi = 0;
+
+            }
+            @if (Session["id"] != null)
+            {
+                <br />
+                foreach (var siparis in Model)
+                {
+                    
+                    if (siparis.UyeID.ToString() == Session["id"].ToString())
+                    {
+                        sayi = sayi + 1;
+                        <div class="col-lg-1">@sayi</div>
+                        <div class="col-lg-2">@siparis.SiparisOzet</div>
+                        <div class="col-lg-3">@siparis.Adres</div>
+                        <div class="col-lg-2">@siparis.Tarih</div>
+                        <div class="col-lg-2">@siparis.Fiyat TL</div>
+                        if (siparis.Durum == "Siparişiniz alındı")
+                        {
+                            <div class="col-lg-2" style="background-color:#e74c3c;">@siparis.Durum</div>
+                        }
+                        else if (siparis.Durum == "Ürünler paketleniyor")
+                        {
+                            <div class="col-lg-2" style="background-color:#F39C12;">@siparis.Durum</div>
+                        }
+                        else if (siparis.Durum == "Siparişiniz yola çıktı")
+                        {
+                            <div class="col-lg-2" style="background-color:#3498DB;">@siparis.Durum</div>
+                        }
+                        else
+                        {
+                            <div class="col-lg-2" style="background-color:#3AC6AA;">@siparis.Durum</div>
+                        }
+
+                        <div class="col-lg-12"></div>
+                    }
+                }
+            }           
+         
+        </div>
+    </div>
+
+</div>
+
+<div class="row">
+    <div class="col-lg-12" style="text-align:center"><i> Bizi seçtiğiniz için teşekkürler...</i></div>
+</div>

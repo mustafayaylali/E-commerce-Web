@@ -1,0 +1,95 @@
+﻿@model TelefonAksesuar.ViewModels.UrunEkleModel
+@{
+    ViewBag.Title = "Ürün Ekle";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">
+                Ürün Ekle 
+                <small></small>
+            </h1>
+            <ol class="breadcrumb">
+                <li>
+                    @Html.ActionLink("Anasayfa", "Index", "Home")
+
+                </li>
+                <li class="active">Ürün Ekle</li>
+            </ol>
+        </div>
+    </div>
+
+    <div class="alert alert-dismissible alert-success">
+        <button type="button" class="close" data-dismiss="alert">&times;</button>
+        <strong> @Model.AdmineMesaj </strong>
+    </div>
+    
+
+    @using (Html.BeginForm("Ekle", "UrunEkle", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <table cellspacing="50" cellpadding="15" align="center">
+            <tr>
+                <td align="center">
+                    <label> @Html.LabelFor(m => m.Kategori)</label>
+                </td>
+                <td align="center">
+                    <label>@Html.LabelFor(m => m.Marka)</label>
+                </td>
+                <td align="center">
+                    <label> @Html.LabelFor(m => m.Model)</label>
+                </td>
+                <td align="center">
+                    <label> @Html.LabelFor(m => m.Fiyat)</label>
+                </td>
+                <td align="center">
+                    <label>@Html.LabelFor(m => m.Stok)</label>
+                </td>
+                <td align="center">
+                    <label>@Html.LabelFor(m => m.Resim)</label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label>
+                      @Html.DropDownListFor(m => m.Kategori, new List<SelectListItem>
+                      {
+                        new SelectListItem() {Text = "Kılıf"},
+                        new SelectListItem() {Text = "Kulaklık"},
+                        new SelectListItem() {Text = "Sarj Cihazı"},
+                        
+                     }, new { @class = "form-control", style = "width:120px" })
+                    </label>
+                    <br />@Html.ValidationMessageFor(m => m.Kategori)
+
+                </td>
+                <td>
+                    <label>@Html.TextBoxFor(m => m.Marka, new { @class = "form-control", style = "width:120px" })</label>
+                    <br />@Html.ValidationMessageFor(m => m.Marka)
+                </td>
+                <td>
+                    <label> @Html.TextBoxFor(m => m.Model, new { @class = "form-control", style = "width:120px" })</label>
+                    <br />@Html.ValidationMessageFor(m => m.Model)
+                </td>
+                <td>
+                    <label> @Html.TextBoxFor(m => m.Fiyat, new { @class = "form-control", style = "width:120px" })</label>
+
+                    <br />@Html.ValidationMessageFor(m => m.Fiyat)
+                </td>
+                <td>
+                    <label>@Html.TextBoxFor(m => m.Stok, new { @class = "form-control", style = "width:80px" })</label>
+                    <br />@Html.ValidationMessageFor(m => m.Stok)
+                </td>
+                <td>
+                    <label>@Html.TextBoxFor(m => m.Resim, new { type = "file" })</label>
+                    <br />@Html.ValidationMessageFor(m => m.Resim)
+                </td>
+            </tr>
+            <tr>
+                <td colspan="5" align="center">
+                    <br /><button class="btn btn-primary" type="submit">EKLE</button>
+
+                </td>
+            </tr>
+        </table>
+    }
+</div>
